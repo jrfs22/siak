@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    position: absolute;
+    background: blue;
+    width: 100%;
+    height: 10px;
+    align-items: center;
+    text-align: center;
+}
+.container .judul{
+    size: 22px;
+    color: red;
+
+}
